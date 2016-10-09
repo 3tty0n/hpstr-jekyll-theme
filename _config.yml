@@ -1,39 +1,39 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
-disqus_shortname: hpstrtheme
+title:            それもまたアイカツ
+description:      みっちょんのアイカツブログ
+disqus_shortname:
 reading_time:     true
 words_per_minute: 200
-url:              https://mmistakes.github.io/hpstr-jekyll-theme
+url:              https://3tty0n.github.io/hpstr-jekyll-theme
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
-  email:          
+  name:           Micchon
+  avatar:         avatar.png
+  bio:            "♡ Functional Programming, Scala, Aikatsu."
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
-  facebook:       
-  github:         mmistakes
-  stackexchange:  
-  linkedin:       
-  instagram:        
-  flickr:         
-  tumblr:         
+  twitter:        3tty0n
+  facebook:
+  github:         3tty0n
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-5
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Tokyo
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -60,9 +60,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -1,32 +1,39 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: このブログについて
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  creditlink:
 comments: false
-modified: 2016-02-01
+modified: 2016-10-09
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+## これは何？
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+みっちょんの技術ブログです。
 
-## HPSTR Features:
+## 君は何者？
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+- 東京にある国立大学の情報系学部生
+- 2016年現在B3
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+### スキル
 
-[^1]: Example: *domain.com/category-name/post-title*
+- Scala
+  - 実務経験あり
+- Java, Ruby, Haskell, Elm, C/C++
+  - 趣味程度
+- play-framework
+  - 実務経験あり
+- spray
+  - 実務経験あり
+- Ruby on Rails
+  - 趣味程度
+
+### 趣味
+
+- プログラミング
+- 映画、アニメ
+- 読書
+- DJ
